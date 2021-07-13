@@ -6,7 +6,7 @@ I have followed agile methodology which makes my project flexible to change, eas
 
 GET THE APP FROM HERE - https://drive.google.com/file/d/15iW3u7qBTr4-YSF6ZNtNRbgo3XOcCp59/view?usp=sharing
 
-VIDEO DEMO OF THE APP - 
+VIDEO DEMO OF THE APP - https://www.youtube.com/watch?v=eCgt7lc7k_Y
 
 TECH STACK :
 
